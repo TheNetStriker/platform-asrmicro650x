@@ -14,7 +14,8 @@
   "version": "1.0.0",
   "packageRepositories": [
   	"https://dl.bintray.com/platformio/dl-packages/manifest.json",
-  	"http://dl.platformio.org/packages/manifest.json"
+  	"http://dl.platformio.org/packages/manifest.json",
+  	"https://raw.githubusercontent.com/TheNetStriker/platform-asrmicro650x/RgbDisplayOnOff/manifest.json"
   ],
   "frameworks": {
     "arduino": {
