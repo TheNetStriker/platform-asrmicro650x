@@ -1,9 +1,9 @@
 {
   "framework-arduinoasrmicro650x-rgbdisplayonoff": [
     {
-      "sha1": "903d5a4fa8ab3b67668505a03ecbde23b2c689f5", 
+      "sha1": "e5e11ff3b8bdf63bce9f3dbd3fe9b569ccd3e543", 
       "system": "*", 
-      "url": "https://github.com/TheNetStriker/platform-asrmicro650x/archive/rgbdisplayonoff_1.0.0.tar.gz", 
+      "url": "https://github.com/TheNetStriker/ASR650x-Arduino/archive/RgbDisplayOnOff_1.0.0.tar.gz", 
       "version": "1.0.0"
     }
   ]
