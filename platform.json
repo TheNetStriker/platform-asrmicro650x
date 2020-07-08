@@ -1,5 +1,5 @@
 {
-  "name": "asrmicro650x",
+  "name": "asrmicro650x-rgbdisplayonoff",
   "title": "ASR Microelectronics ASR605x",
   "description": "ASR Microelectronics ASR605x series is highly intergrated and ultra low power SOC based on the PSoC 4000 series MCU (ARM Cortex M0+ Core) and Semtech SX1262 transceiver.",
   "homepage": "http://www.asrmicro.com",
