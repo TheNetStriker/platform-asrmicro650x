@@ -27,7 +27,7 @@
       "type": "toolchain",
       "version": "~1.90201.0"
     },
-    "framework-arduinoasrmicro650x": {
+    "framework-arduinoasrmicro650x-rgbdisplayonoff": {
       "type": "framework",
       "version": "~1.0.0",
       "optional": true
